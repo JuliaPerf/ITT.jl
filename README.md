@@ -100,8 +100,8 @@ versions of Julia, pre-1.9, you also need to re-compile Julia from source with t
 option `USE_INTEL_JITEVENTS` set to `1`.
 
 More information, including, e.g., a [Intel VTune remote usage
-example](https://juliahpc.github.io/JuliaOnHPCClusters/user_hpcprofiling/intel_vtune/) can
-be found in the [Julia On HPC Clusters](https://juliahpc.github.io/JuliaOnHPCClusters/)
+example](https://juliahpc.github.io/user_hpcprofiling/intel_vtune/) can
+be found in the [Julia On HPC Clusters](https://juliahpc.github.io/)
 notes.
 
 
